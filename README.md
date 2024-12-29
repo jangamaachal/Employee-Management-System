@@ -32,7 +32,9 @@ o	Numpy: Used for numerical & scientific programming.
 o	Bar Chart for employee count in each department.
 o	Pie Chart for employee status.
 o	Heatmap for attendance data.
+
 •	Conclusion:
+
 •	An Employee Management System (EMS) for visualization only is a project that focuses on visualizing employee data to gain insights and support decision-making. It emphasizes creating charts, graphs, and dashboards that provide a comprehensive overview of key employee metrics such as performance, attendance, and departmental distribution. Such a system helps organizations track employee trends, identify potential issues, and make data-driven decisions.
 
 
